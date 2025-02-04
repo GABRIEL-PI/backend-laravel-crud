@@ -1,7 +1,7 @@
 ## Como Clonar o Repositório
 ```
-git clone https://github.com/GABRIEL-PI/backend-laravel-crud.git
-cd backend-laravel-crud
+git clone https://github.com/GABRIEL-PI/laravel-crud.git
+cd laravel-crud
 ```
 
 ## Instalação e Configuração
